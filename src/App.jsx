@@ -1,11 +1,11 @@
 import './App.css'
-import UseStateObject from './ReactTutorials/UseState/UseStateObject'
+import UseEffect1 from './ReactTutorials/useEffect/UseEffect1'
 
 function App() {
 
   return (
     <div>
-      <UseStateObject />
+      <UseEffect1 />
     </div>
   )
 }
